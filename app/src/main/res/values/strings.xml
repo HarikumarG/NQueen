@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">N-Queen</string>
+    <string name="title_activity_five_queen">five_queen</string>
+    <string name="title_activity_six_queen">six_queen</string>
+</resources>
